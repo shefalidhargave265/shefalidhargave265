@@ -1,4 +1,4 @@
-
+<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shefali+Dhargave...;Nice+to+meet+you!&center=true&size=25">
@@ -9,6 +9,7 @@
 - 📫 How to reach me *shefalidhargave265@gmail.com*
 
 - ⚡ Fun fact **Dark Humour**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,8 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shefalidhargave265&show_icons=true&locale=en" alt="shefalidhargave265" /></p>
 
 
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shefalidhargave265&" alt="shefalidhargave265" /></p>
